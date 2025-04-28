@@ -5,7 +5,7 @@ The goal of this working group is to collect, develop and publish open standards
 ## Governance
 
 **Chairperson**: Anto Budiardjo  
-**Governing Board/Committee**: Anto Budiardjo, Rick Justis (Dictator for Life), Tristan de Frondeville, Kennady Gales, Tracy Markie
+**Governing Board/Committee**: Anto Budiardjo, Rick Justis, Tristan de Frondeville, Kennady Gales, Tracy Markie
 
 ## Contributing
 
